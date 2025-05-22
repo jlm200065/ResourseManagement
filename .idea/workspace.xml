@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4afb43ed-b842-412a-a733-60bae286bfaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlm/BootApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jlm/config/CrosConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jlm/CodeGenTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="4afb43ed-b842-412a-a733-60bae286bfaf" name="Changes" comment="change user" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,39 +30,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ApiPost:METDOD_SEND_RECORD:ResourceManagement&quot;: &quot;{\&quot;/dataAdmin/userActionTracking/create\&quot;:[{\&quot;url\&quot;:\&quot;http://localhost:8090/dataAdmin/userActionTracking/create\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;{\\n  \\\&quot;id\\\&quot;: \\\&quot;1\\\&quot;,\\n  \\\&quot;operationType\\\&quot;: 1,\\n  \\\&quot;postId\\\&quot;: \\\&quot;1\\\&quot;\\n}\&quot;,\&quot;responseBody\&quot;:\&quot;\&quot;,\&quot;selectedItem\&quot;:\&quot;POST\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2025.0,\&quot;month\&quot;:5.0,\&quot;day\&quot;:22.0},\&quot;time\&quot;:{\&quot;hour\&quot;:19.0,\&quot;minute\&quot;:53.0,\&quot;second\&quot;:19.0,\&quot;nano\&quot;:2.69628E8}}},{\&quot;url\&quot;:\&quot;http://localhost:8090/dataAdmin/userActionTracking/create\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;{\\n  \\\&quot;id\\\&quot;: \\\&quot;1\\\&quot;,\\n  \\\&quot;operationType\\\&quot;: 1,\\n  \\\&quot;postId\\\&quot;: \\\&quot;1\\\&quot;\\n}\&quot;,\&quot;responseBody\&quot;:\&quot;There was an error accessing to URL: http://localhost:8090/dataAdmin/userActionTracking/create\\n\\n\\u003chtml\\u003e\\u003cbody\\u003e\\u003ch1\\u003eWhitelabel Error Page\\u003c/h1\\u003e\\u003cp\\u003eThis application has no explicit mapping for /error, so you are seeing this as a fallback.\\u003c/p\\u003e\\u003cdiv id\\u003d\\u0027created\\u0027\\u003eThu May 22 19:53:38 CST 2025\\u003c/div\\u003e\\u003cdiv\\u003eThere was an unexpected error (type\\u003dNot Found, status\\u003d404).\\u003c/div\\u003e\\u003c/body\\u003e\\u003c/html\\u003e\&quot;,\&quot;selectedItem\&quot;:\&quot;POST\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2025.0,\&quot;month\&quot;:5.0,\&quot;day\&quot;:22.0},\&quot;time\&quot;:{\&quot;hour\&quot;:19.0,\&quot;minute\&quot;:53.0,\&quot;second\&quot;:38.0,\&quot;nano\&quot;:2.524075E8}}}],\&quot;/dataAdmin/userActionTracking/{id}\&quot;:[{\&quot;url\&quot;:\&quot;http://localhost:8090/dataAdmin/userActionTracking/{id}\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:1,\&quot;key\&quot;:\&quot;id\&quot;,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;1\&quot;},{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;description\&quot;:\&quot;id\&quot;,\&quot;is_checked\&quot;:1,\&quot;key\&quot;:\&quot;id\&quot;,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;not_null\&quot;:\&quot;1\&quot;,\&quot;field_type\&quot;:\&quot;Long\&quot;,\&quot;value\&quot;:\&quot;1\&quot;},{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;{\\n  \\\&quot;id\\\&quot;: \\\&quot;1\\\&quot;,\\n  \\\&quot;operationType\\\&quot;: 1,\\n  \\\&quot;postId\\\&quot;: \\\&quot;1\\\&quot;\\n}\&quot;,\&quot;selectedItem\&quot;:\&quot;GET\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2025,\&quot;month\&quot;:5,\&quot;day\&quot;:22},\&quot;time\&quot;:{\&quot;hour\&quot;:19,\&quot;minute\&quot;:54,\&quot;second\&quot;:3,\&quot;nano\&quot;:483564600}}}]}&quot;,
-    &quot;JUnit.CodeGenTest.generateCode.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.ResourceManagement [package].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.BootApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IDEA/workspace/ResourceManagement/src/test&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ApiPost:METDOD_SEND_RECORD:ResourceManagement": "{\"/dataAdmin/userActionTracking/create\":[{\"url\":\"http://localhost:8090/dataAdmin/userActionTracking/create\",\"header\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"{\\n  \\\"id\\\": \\\"1\\\",\\n  \\\"operationType\\\": 1,\\n  \\\"postId\\\": \\\"1\\\"\\n}\",\"responseBody\":\"\",\"selectedItem\":\"POST\",\"time\":{\"date\":{\"year\":2025.0,\"month\":5.0,\"day\":22.0},\"time\":{\"hour\":19.0,\"minute\":53.0,\"second\":19.0,\"nano\":2.69628E8}}},{\"url\":\"http://localhost:8090/dataAdmin/userActionTracking/create\",\"header\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"{\\n  \\\"id\\\": \\\"1\\\",\\n  \\\"operationType\\\": 1,\\n  \\\"postId\\\": \\\"1\\\"\\n}\",\"responseBody\":\"There was an error accessing to URL: http://localhost:8090/dataAdmin/userActionTracking/create\\n\\n\\u003chtml\\u003e\\u003cbody\\u003e\\u003ch1\\u003eWhitelabel Error Page\\u003c/h1\\u003e\\u003cp\\u003eThis application has no explicit mapping for /error, so you are seeing this as a fallback.\\u003c/p\\u003e\\u003cdiv id\\u003d\\u0027created\\u0027\\u003eThu May 22 19:53:38 CST 2025\\u003c/div\\u003e\\u003cdiv\\u003eThere was an unexpected error (type\\u003dNot Found, status\\u003d404).\\u003c/div\\u003e\\u003c/body\\u003e\\u003c/html\\u003e\",\"selectedItem\":\"POST\",\"time\":{\"date\":{\"year\":2025.0,\"month\":5.0,\"day\":22.0},\"time\":{\"hour\":19.0,\"minute\":53.0,\"second\":38.0,\"nano\":2.524075E8}}}],\"/dataAdmin/userActionTracking/{id}\":[{\"url\":\"http://localhost:8090/dataAdmin/userActionTracking/{id}\",\"header\":[{\"is_checked\":1,\"key\":\"id\",\"type\":\"Text\",\"value\":\"1\"},{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"description\":\"id\",\"is_checked\":1,\"key\":\"id\",\"type\":\"Text\",\"not_null\":\"1\",\"field_type\":\"Long\",\"value\":\"1\"},{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"{\\n  \\\"id\\\": \\\"1\\\",\\n  \\\"operationType\\\": 1,\\n  \\\"postId\\\": \\\"1\\\"\\n}\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2025,\"month\":5,\"day\":22},\"time\":{\"hour\":19,\"minute\":54,\"second\":3,\"nano\":483564600}}}]}",
+    "JUnit.CodeGenTest.generateCode.executor": "Run",
+    "Maven.ResourceManagement [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.BootApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IDEA/workspace/ResourceManagement/src/test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -141,10 +129,41 @@
       <option name="presentableId" value="Default" />
       <updated>1747910650472</updated>
       <workItem from="1747910651561" duration="4858000" />
+      <workItem from="1747916927660" duration="1243000" />
     </task>
+    <task id="LOCAL-00001" summary="change user">
+      <option name="closed" value="true" />
+      <created>1747917155265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747917155265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete wrong">
+      <option name="closed" value="true" />
+      <created>1747917848764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747917848764</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change user">
+      <option name="closed" value="true" />
+      <created>1747918032668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747918032668</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete wrong" />
+    <MESSAGE value="change user" />
+    <option name="LAST_COMMIT_MESSAGE" value="change user" />
   </component>
 </project>
