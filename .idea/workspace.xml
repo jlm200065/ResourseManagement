@@ -33,48 +33,48 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2xRpH6YMmM3n3mm0gah5PaSjdD4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ApiPost:METDOD_SEND_RECORD:ResourceManagement": "{\"/dataAdmin/userActionTracking/create\":[{\"url\":\"http://localhost:8090/dataAdmin/userActionTracking/create\",\"header\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"{\\n  \\\"id\\\": \\\"1\\\",\\n  \\\"operationType\\\": 1,\\n  \\\"postId\\\": \\\"1\\\"\\n}\",\"responseBody\":\"\",\"selectedItem\":\"POST\",\"time\":{\"date\":{\"year\":2025.0,\"month\":5.0,\"day\":22.0},\"time\":{\"hour\":19.0,\"minute\":53.0,\"second\":19.0,\"nano\":2.69628E8}}},{\"url\":\"http://localhost:8090/dataAdmin/userActionTracking/create\",\"header\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"{\\n  \\\"id\\\": \\\"1\\\",\\n  \\\"operationType\\\": 1,\\n  \\\"postId\\\": \\\"1\\\"\\n}\",\"responseBody\":\"There was an error accessing to URL: http://localhost:8090/dataAdmin/userActionTracking/create\\n\\n\\u003chtml\\u003e\\u003cbody\\u003e\\u003ch1\\u003eWhitelabel Error Page\\u003c/h1\\u003e\\u003cp\\u003eThis application has no explicit mapping for /error, so you are seeing this as a fallback.\\u003c/p\\u003e\\u003cdiv id\\u003d\\u0027created\\u0027\\u003eThu May 22 19:53:38 CST 2025\\u003c/div\\u003e\\u003cdiv\\u003eThere was an unexpected error (type\\u003dNot Found, status\\u003d404).\\u003c/div\\u003e\\u003c/body\\u003e\\u003c/html\\u003e\",\"selectedItem\":\"POST\",\"time\":{\"date\":{\"year\":2025.0,\"month\":5.0,\"day\":22.0},\"time\":{\"hour\":19.0,\"minute\":53.0,\"second\":38.0,\"nano\":2.524075E8}}}],\"/dataAdmin/userActionTracking/{id}\":[{\"url\":\"http://localhost:8090/dataAdmin/userActionTracking/{id}\",\"header\":[{\"is_checked\":1,\"key\":\"id\",\"type\":\"Text\",\"value\":\"1\"},{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"description\":\"id\",\"is_checked\":1,\"key\":\"id\",\"type\":\"Text\",\"not_null\":\"1\",\"field_type\":\"Long\",\"value\":\"1\"},{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"{\\n  \\\"id\\\": \\\"1\\\",\\n  \\\"operationType\\\": 1,\\n  \\\"postId\\\": \\\"1\\\"\\n}\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2025,\"month\":5,\"day\":22},\"time\":{\"hour\":19,\"minute\":54,\"second\":3,\"nano\":483564600}}}]}",
-    "JUnit.CodeGenTest.generateCode.executor": "Run",
-    "Maven.ResourceManagement [package].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.BootApplication.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IDEA/workspace/ResourceManagement/src/test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ApiPost:METDOD_SEND_RECORD:ResourceManagement&quot;: &quot;{\&quot;/dataAdmin/userActionTracking/create\&quot;:[{\&quot;url\&quot;:\&quot;http://localhost:8090/dataAdmin/userActionTracking/create\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;{\\n  \\\&quot;id\\\&quot;: \\\&quot;1\\\&quot;,\\n  \\\&quot;operationType\\\&quot;: 1,\\n  \\\&quot;postId\\\&quot;: \\\&quot;1\\\&quot;\\n}\&quot;,\&quot;responseBody\&quot;:\&quot;\&quot;,\&quot;selectedItem\&quot;:\&quot;POST\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2025.0,\&quot;month\&quot;:5.0,\&quot;day\&quot;:22.0},\&quot;time\&quot;:{\&quot;hour\&quot;:19.0,\&quot;minute\&quot;:53.0,\&quot;second\&quot;:19.0,\&quot;nano\&quot;:2.69628E8}}},{\&quot;url\&quot;:\&quot;http://localhost:8090/dataAdmin/userActionTracking/create\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;{\\n  \\\&quot;id\\\&quot;: \\\&quot;1\\\&quot;,\\n  \\\&quot;operationType\\\&quot;: 1,\\n  \\\&quot;postId\\\&quot;: \\\&quot;1\\\&quot;\\n}\&quot;,\&quot;responseBody\&quot;:\&quot;There was an error accessing to URL: http://localhost:8090/dataAdmin/userActionTracking/create\\n\\n\\u003chtml\\u003e\\u003cbody\\u003e\\u003ch1\\u003eWhitelabel Error Page\\u003c/h1\\u003e\\u003cp\\u003eThis application has no explicit mapping for /error, so you are seeing this as a fallback.\\u003c/p\\u003e\\u003cdiv id\\u003d\\u0027created\\u0027\\u003eThu May 22 19:53:38 CST 2025\\u003c/div\\u003e\\u003cdiv\\u003eThere was an unexpected error (type\\u003dNot Found, status\\u003d404).\\u003c/div\\u003e\\u003c/body\\u003e\\u003c/html\\u003e\&quot;,\&quot;selectedItem\&quot;:\&quot;POST\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2025.0,\&quot;month\&quot;:5.0,\&quot;day\&quot;:22.0},\&quot;time\&quot;:{\&quot;hour\&quot;:19.0,\&quot;minute\&quot;:53.0,\&quot;second\&quot;:38.0,\&quot;nano\&quot;:2.524075E8}}}],\&quot;/dataAdmin/userActionTracking/{id}\&quot;:[{\&quot;url\&quot;:\&quot;http://localhost:8090/dataAdmin/userActionTracking/{id}\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:1,\&quot;key\&quot;:\&quot;id\&quot;,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;1\&quot;},{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;description\&quot;:\&quot;id\&quot;,\&quot;is_checked\&quot;:1,\&quot;key\&quot;:\&quot;id\&quot;,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;not_null\&quot;:\&quot;1\&quot;,\&quot;field_type\&quot;:\&quot;Long\&quot;,\&quot;value\&quot;:\&quot;1\&quot;},{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;{\\n  \\\&quot;id\\\&quot;: \\\&quot;1\\\&quot;,\\n  \\\&quot;operationType\\\&quot;: 1,\\n  \\\&quot;postId\\\&quot;: \\\&quot;1\\\&quot;\\n}\&quot;,\&quot;selectedItem\&quot;:\&quot;GET\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2025,\&quot;month\&quot;:5,\&quot;day\&quot;:22},\&quot;time\&quot;:{\&quot;hour\&quot;:19,\&quot;minute\&quot;:54,\&quot;second\&quot;:3,\&quot;nano\&quot;:483564600}}}]}&quot;,
+    &quot;JUnit.CodeGenTest.generateCode.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ResourceManagement [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BootApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IDEA/workspace/ResourceManagement/src/test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -88,7 +88,7 @@
       <recent name="com.resource" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.BootApplication">
+  <component name="RunManager" selected="JUnit.CodeGenTest.generateCode">
     <configuration name="CodeGenTest.generateCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ResourceManagement" />
       <extension name="coverage">
